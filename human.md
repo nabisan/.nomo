@@ -7,6 +7,8 @@ fontsize: 15px
 
 # Ajay Kataria
 
+![image:180](/assets/avatar.png)
+
 {{quantitative research · markets · computation}}
 
 I study how markets behave through mathematics, statistics, and computation.
