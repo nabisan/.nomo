@@ -5,7 +5,7 @@ font: system
 fontsize: 15px
 ---
 
-# Ajay Kataria(なび)
+# Ajay Kataria
 
 {{quantitative research · markets · computation}}
 
