@@ -1,11 +1,4 @@
 ---
-align: top
-theme: system
-font: system
-fontsize: 15px
----
-
----
 
 align: top
 theme: system
@@ -13,7 +6,7 @@ font: system
 fontsize: 15px
 --------------
 
-# Ajay Kataria(なび
+# Ajay Kataria(なび)
 
 {{quantitative research · markets · computation}}
 
