@@ -5,33 +5,50 @@ font: system
 fontsize: 15px
 ---
 
-# nabichan
+---
 
-{{quantitative researcher in progress}}
+align: top
+theme: system
+font: system
+fontsize: 15px
+--------------
 
-I study markets, statistics, and computational finance.
+# Ajay Kataria(なび
 
-((quantitative finance))
+{{quantitative research · markets · computation}}
+
+I study how markets behave through mathematics, statistics, and computation.
+
 ((market microstructure))
 ((volatility))
 ((systematic trading))
+((mathematical finance))
 
 ## Research
 
-I'm interested in understanding how markets behave through
-mathematical models, statistical methods, and computation.
+My interests lie around market microstructure, stochastic models of markets, volatility, and systematic strategies.
+
+Currently exploring:
+
+* queue-reactive order book models
+* rough volatility and point processes
+* order flow and market impact
+* statistical arbitrage and systematic trading
 
 ## Projects
 
-Research and experiments in quantitative finance,
-market microstructure, volatility, and systematic trading.
+A few things I've been building and researching.
+
+[Schrödinger bridges](https://github.com/nabisan/schrodinger-bridge)
+[Deep mean reversion](https://github.com/nabisan/dnn-meanrev)
+[Market sentiment](https://github.com/nabisan/news-sentiment)
 
 ## Notes
 
-A collection of things I'm learning, reading, and thinking about.
-
-[Research notes](/content/notes)
+{{papers, experiments, mathematics, and things worth remembering}}
 
 ## Elsewhere
 
-[GitHub](https://github.com/nabichan)
+[GitHub](https://github.com/nabisan)
+[LinkedIn](https://www.linkedin.com/in/ajaykataria3301)
+
