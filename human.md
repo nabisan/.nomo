@@ -1,5 +1,4 @@
 ---
-
 align: top
 theme: system
 font: system
